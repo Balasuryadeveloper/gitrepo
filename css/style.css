@@ -1,0 +1,53 @@
+*{
+    margin: 10px;
+}
+html{
+    background-image: url(1.jpg);
+    background-size: 100%;
+}
+body{
+    height: 550px;
+    width: 600px;
+    margin: auto auto;
+    border: 1px;
+    border-style: outset;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    color: white;
+}
+table{
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+}
+td{
+    padding-top: 10px;
+}
+input{
+    background-color: rgb(53, 49, 49);
+    color: white;
+    border-color: rgb(53, 49, 49);
+    border-radius: 10px;
+}
+#button{
+    background-color: green;
+    height: 30px;
+    width: 100px;
+    border: 1px solid green;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+}
+#f{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#button:hover{
+    background-color: rgb(50, 205, 50);
+    border-color: rgb(50, 205, 50);
+    box-shadow: 5px 5px black;
+}
