@@ -1,0 +1,42 @@
+body{
+    background-color: coral;
+}
+#fs1{
+    font-size: large;
+}
+#fs2{
+    font-size: small;
+}
+#fs3{
+    font-size: medium;
+}
+#fs4{
+    font-size: x-large;
+}
+#ff1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ff2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ff3{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#ff4{
+    font-family: cursive;
+}
+#ff5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#fw1{
+    font-weight:900;
+}
+#fw2{
+    font-weight: 800;
+}
+#fw3{
+    font-weight:bold;
+}
+#fw4{
+    font-weight: lighter;
+}
