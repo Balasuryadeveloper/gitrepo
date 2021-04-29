@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background-color: oldlace;
+}
+body{
+    background-color: rgb(221, 179, 116);
+    height: 600px;
+    width: 650px;
+    margin: 10px auto;
+    box-shadow: 10px 10px black;
+}
+#head{
+    height: 100px;
+    width: 100%;
+    background-color:purple;
+}
+#head1{
+    height: 100px;
+    width: 20%;
+    background-color: yellow;
+    float: left;
+    border-radius: 50%;
+    background-image: url(school.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+#head h2{
+    color: yellow;
+    font-size: 50px;
+    margin-top: 30px;
+}
+#head2{
+    height: 100px;
+    width: 80%;
+    background-color: purple;
+    float: right;
+}
+#nav{
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+}
+#nav1 li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 17px;
+    margin-right: 100px;
+    float: right;
+}
+#nav a{
+    text-decoration: none;
+    padding-top: 20px;
+    color: purple;
+}
+#nav11 a:hover{
+    color: green;
+}
+#con{
+    height: 400px;
+    width: 100%;
+    background-color: purple;
+}
+#footer{
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+    text-align: center;
+    color: purple;
+    font-weight: 800;
+}
+h3{
+    padding-top: 15px;
+}
+#c1{
+    height: 100%;
+    width: 30%;
+    background-color: purple;
+    float: left;
+}
+#c2{
+    height: 100%;
+    width: 70%;
+    background-color: rgb(219, 219, 10);
+    float: right;
+}
+#nav2 li{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#nav2 a{
+    text-decoration: none;
+    color: yellow;
+}
+#nav2 a:hover{
+    color: yellowgreen;
+}
+#tab1{
+    color: yellow;
+    margin: 30px auto;
+    border: 1px solid yellow;
+    font-size: 18px;
+}
+#tab1 td{
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+#inp1{
+    width: 120px;
+    background-color: rgb(143, 12, 143);
+    border-radius: 10px;
+}
+#inp2{
+    height: 30px;
+    width: 80px;
+    background-color: green;
+    border-color: green;
+    border-radius: 5px;
+    font-size: 18px;
+    color: yellow;
+}
+#ol1 li{
+    list-style-type: none;
+    padding: 20px;
+}
+#ol1 li a{
+    text-decoration: none;
+    color: yellow;
+    padding: 15px auto;
+    font-size: larger;
+    font-family: bold;
+}
+#tab3 td{
+    color: yellow;
+    padding: 20px;
+    border: none;
+}
+#tab3{
+    border: 1px solid yellow;
+}
+#ta{
+    background-color: purple;
+    color: yellow;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    border: 1px solid rgb(236, 221, 4);
+    border-style: inset;
+}
